@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# printing number from 1 - 20
+#printing number from 1 - 20
 
 i=0
 while [ $i -le 20 ]
