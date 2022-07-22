@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+#print all files in current working directory
+
+
+for FILE in * 
+do 
+    echo "$FILE" | cut -d'-' -f 2  
+done 
